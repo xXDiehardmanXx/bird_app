@@ -39,12 +39,15 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   assets:
-    - images/Rosy starling.jpg
+    - images/
 
   fonts:
     - family: 'Raleway'
       fonts:
         - asset: fonts/Raleway-VariableFont_wght.ttf
+    - family: 'Pacifico'
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
